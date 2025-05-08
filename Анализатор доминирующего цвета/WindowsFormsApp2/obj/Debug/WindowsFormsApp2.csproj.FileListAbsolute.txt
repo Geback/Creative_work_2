@@ -1,0 +1,64 @@
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Emgu.CV.dll
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IO.Pipelines.dll
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.dll
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.dll
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Json.dll
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Emgu.CV.xml
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IO.Pipelines.xml
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.xml
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.xml
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Json.xml
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.ValueTuple.xml
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsF.EA766B00.Up2Date
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\Копачи\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\bin\Debug\Emgu.CV.dll
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\bin\Debug\System.Text.Json.dll
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\bin\Debug\Emgu.CV.xml
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\bin\Debug\System.Text.Json.xml
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\bin\Debug\System.ValueTuple.xml
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\obj\Debug\WindowsF.EA766B00.Up2Date
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Geback\Desktop\Анализатор доминирующего цвета\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
